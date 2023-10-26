@@ -1,9 +1,3 @@
--- U01
-Evis Bregu
-Brisilda Cekreci
-Helia Dadkhah
---
-
 run in the Terminal:
 `make`
 
